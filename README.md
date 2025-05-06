@@ -1,36 +1,28 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Melvin Soldia - Portfolio
 
-## Getting Started
+Welcome to my portfolio! I am a passionate and results-driven software engineer with a strong focus on building scalable, efficient, and user-centric solutions. With a proven track record of delivering high-quality projects, I specialize in full-stack development, cloud computing, and modern software architecture.
 
-First, run the development server:
+## 🚀 Expertise
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Languages**: TypeScript, Go, Php
+- **Frontend**: React, React Native, Next.js, Tailwind CSS
+- **Backend**: Node.js, Nest.js, Meteor.js
+- **Databases**: PostgreSQL, MongoDB, MySQL, Redis
+- **DevOps**: Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins), AWS, Azure, GCP
+- **Testing**: Jest, Mocha, Cypress, Playwright
+- **Other Skills**: RESTful APIs, GraphQL, WebSockets, Agile Development, Microservices
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🌟 Why Hire Me?
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Problem Solver**: I thrive on tackling complex challenges and delivering innovative solutions.
+- **Team Player**: Experienced in collaborating with cross-functional teams to achieve project goals.
+- **Continuous Learner**: Always staying updated with the latest technologies and best practices.
+- **Attention to Detail**: Committed to writing clean, maintainable, and efficient code.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📫 Let's Connect!
 
-## Learn More
+- **Portfolio**: [melvinsoldia.dev](https://melvinsoldia.dev)
+- **LinkedIn**: [linkedin.com/in/melvin-soldia](https://linkedin.com/in/melvin-soldia)
+- **GitHub**: [github.com/mewben](https://github.com/mewben)
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Thank you for visiting my portfolio! I look forward to collaborating and contributing to your next big project.

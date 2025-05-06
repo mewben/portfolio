@@ -1,4 +1,3 @@
-import { Container } from "../ui/container";
 import { MyTime } from "../ui/my-time";
 
 export const FooterSection = () => {

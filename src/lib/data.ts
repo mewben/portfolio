@@ -1,4 +1,4 @@
-import sanityClient from "./sanityClient";
+// import sanityClient from "./sanityClient";
 
 export type DataType = {
   name: string;
@@ -218,40 +218,40 @@ export const data: DataType = {
     "https://tally.so/embed/mDaqOq?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1",
 };
 
-export const fetchData = async () => {
-  const query = `*[_type == "portfolioData"][0]{
-    name,
-    title,
-    location,
-    currentTimezone,
-    email,
-    linkedin,
-    github,
-    website,
-    skills,
-    about,
-    experiences[] {
-      position,
-      company,
-      location,
-      date,
-      description,
-      skills
-    },
-    projects[] {
-      title,
-      description,
-      image,
-      link
-    },
-    certifications[] {
-      title,
-      provider,
-      description
-    },
-    contactIframe
-  }`;
+// export const fetchData = async () => {
+//   const query = `*[_type == "portfolioData"][0]{
+//     name,
+//     title,
+//     location,
+//     currentTimezone,
+//     email,
+//     linkedin,
+//     github,
+//     website,
+//     skills,
+//     about,
+//     experiences[] {
+//       position,
+//       company,
+//       location,
+//       date,
+//       description,
+//       skills
+//     },
+//     projects[] {
+//       title,
+//       description,
+//       image,
+//       link
+//     },
+//     certifications[] {
+//       title,
+//       provider,
+//       description
+//     },
+//     contactIframe
+//   }`;
 
-  const data = await sanityClient.fetch(query);
-  return data;
-};
+//   const data = await sanityClient.fetch(query);
+//   return data;
+// };
